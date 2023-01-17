@@ -1,0 +1,1 @@
+A random 8-digit password generator utilising ASCII.
